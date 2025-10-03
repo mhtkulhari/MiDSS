@@ -1,4 +1,4 @@
-# MiDSS
+# MiDS
 
 ### 1. Introduction
 
